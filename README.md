@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **edi24039@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JqPnOzsk2yei88XD-772WS13DUzyhEAs/view?usp=sharing](https://drive.google.com/file/d/1JqPnOzsk2yei88XD-772WS13DUzyhEAs/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
