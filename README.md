@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edi-gr&label=Profile%20views&color=0e75b6&style=flat" alt="edi-gr" /> </p>
 
-- 👨‍💻 My Notable projects are available at [https://edson-rebel.vercel.app/](https://edson-rebel.vercel.app/)
+
 
 - 📫 How to reach me **edi24039@gmail.com**
 
